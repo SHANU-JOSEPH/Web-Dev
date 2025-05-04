@@ -1,3 +1,3 @@
-const version = "v1.1";
+const version = "v1.2";
 consol.log('JavaScript test script' ${version});
 
